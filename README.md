@@ -1,5 +1,7 @@
 # Terbiyesiz Robot!
 
+![Thumbnail](img/tb.png)
+
 Arduino ve 3D baskı malzemelerini bir araya getirerek, Robotumuzun insanları gördüğünde küfür etmesini sağlıyoruz! 🎮✨
 
 [Video Linki](https://www.youtube.com/embed/PIouZmYh1Xo)
