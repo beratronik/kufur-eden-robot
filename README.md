@@ -4,7 +4,7 @@
 
 Arduino ve 3D baskı malzemelerini bir araya getirerek, Robotumuzun insanları gördüğünde küfür etmesini sağlıyoruz! 🎮✨
 
-[Video Linki](https://www.youtube.com/embed/PIouZmYh1Xo)
+[Video Linki](https://www.youtube.com/watch?v=PIouZmYh1Xo)
 
 ## Projenin Sitesi
 [Projenin Sitesi](https://www.ottodiy.com/)
